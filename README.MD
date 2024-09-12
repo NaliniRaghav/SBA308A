@@ -23,7 +23,12 @@ Technologies Used
  HTML5HTML5
  CSS3
  JavaScript 
- The Dog API
+ The Dog API:
+  
+    https://api.thedogapi.com/v1, 
+    
+   Key: live_0IZqf0z3Yfko7ulYIbXc90Zp3BH4uCKWbVhtQbDjhmSHEmivM47u3bZBXNlBAcjy respectively.
+
 
  How to Run
 
@@ -31,7 +36,4 @@ Technologies Used
 2. Open the `index.html` file in your browser.
 3. Enjoy browsing dog images, searching breeds, and saving favorites!
 
-The API and key used are 
-https://api.thedogapi.com/v1, 
-live_0IZqf0z3Yfko7ulYIbXc90Zp3BH4uCKWbVhtQbDjhmSHEmivM47u3bZBXNlBAcjy respectively.
 
